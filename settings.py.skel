@@ -1,0 +1,11 @@
+soundcloud_params = {
+	"client_id": "1234567890abcdef"
+};
+
+json_settings = {
+	"sort_keys": True,
+	"indent": 4
+};
+
+db_filename = "following.db";
+cache_directory = "cache";
